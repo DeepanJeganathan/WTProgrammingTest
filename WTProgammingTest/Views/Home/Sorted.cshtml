@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WTProgammingTest.ViewModels.MainObjectViewModel>
+
+@{
+    ViewData["Title"] = "ByLocation";
+}
+
+    <h3> @ViewData["Heading"]</h3>
+
+    <div class="row ">
+        <table class="table">
+            <thead class="bg-primary">
+                <tr>
+                    <th scope="col">Values</th>
+                    <th scope="col">Characters</th>
+                    <th scope="col">Data</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.Value</td>
+                        <td>@obj.Characters</td>
+                        <td>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Values</th>
+                                        <th scope="col" class="text-center">Location</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var nestedObj in obj.Data)
+                                    {                                       
+                                            <tr>
+                                                <td class="text-left">
+                                                    @nestedObj.Value
+                                                </td>
+
+                                                <td class="text-center ">
+                                                    @nestedObj.Location
+                                                </td>
+                                            </tr>
+                                   
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>

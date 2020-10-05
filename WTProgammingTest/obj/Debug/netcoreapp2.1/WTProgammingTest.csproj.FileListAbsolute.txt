@@ -1,0 +1,103 @@
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.deps.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.dev.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.dll
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.pdb
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.dll
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csprojAssemblyReference.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfoInputs.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfo.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.input.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.output.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorCoreGenerate.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cache
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.dll
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.pdb
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csproj.CopyComplete
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data2.json
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\ByLocation.cshtml.g.cs
+C:\Users\14168\source\repos\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\ByValue.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data2.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.deps.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.dev.json
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.dll
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.pdb
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.dll
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csprojAssemblyReference.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfoInputs.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfo.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.input.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.output.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorCoreGenerate.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cache
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cs
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.dll
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.pdb
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csproj.CopyComplete
+D:\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sorted.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Data\data2.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.deps.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.runtimeconfig.dev.json
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.dll
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.pdb
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.dll
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\bin\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csprojAssemblyReference.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorAssemblyInfo.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfoInputs.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.AssemblyInfo.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.input.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.TagHelpers.output.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorCoreGenerate.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sorted.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cache
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.RazorTargetAssemblyInfo.cs
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.Views.pdb
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.dll
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.pdb
+C:\Users\14168\Downloads\WTProgammingTest (1)\WTProgammingTest\WTProgammingTest\WTProgammingTest\obj\Debug\netcoreapp2.1\WTProgammingTest.csproj.CopyComplete

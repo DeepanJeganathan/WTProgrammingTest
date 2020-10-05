@@ -1,0 +1,29 @@
+﻿
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+    <div class="row vertical-align ">
+        <div class="col-sm-6  ">
+            <div class="panel panel-default">
+                <div class="panel-heading">Sort By Location</div>
+                <div class="panel-body text-center">
+                   
+                    <a asp-controller="Home" asp-action="Sorted" asp-route-sortBy="Location" class="btn btn-primary">Sort Ascending Order</a>
+                </div>
+            </div>
+            
+        </div>
+        <div class="col-sm-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">Sort By Value</div>
+                <div class="panel-body text-center">
+
+                    <a asp-controller="Home" asp-action="Sorted" asp-route-sortBy="Value" class="btn btn-primary">Sort Ascending Order</a>
+                </div>
+            </div>
+    </div>
+</div>
